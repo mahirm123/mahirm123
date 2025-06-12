@@ -149,7 +149,8 @@
 </div> 
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/mohammad-selim03" title="Team Management Dashboard"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=none&theme=react&border_color=61dafb&border_radius=10">ss</a>
+  <a align="left" href="https://github.com/mohammad-selim03/stride-task-sync-52" title="Advanced Task Management UI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=stride-task-sync-52&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="right" href="https://github.com/mohammad-selim03/gaming-platform" title="Gaming subscription platform"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=gaming-platform&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
  
