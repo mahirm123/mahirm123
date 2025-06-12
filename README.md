@@ -2,7 +2,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%20A%20A%20Passionate%20frontend%20and%20Enthusiast%20;Build%20experiences;Turning%20coding%20ideas%20into%20sleek;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=45&color=61DAFB&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=%20A%20Passionate%20frontend%20and%20Enthusiast%20;Build%20experiences;Turning%20coding%20ideas%20into%20sleek;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=45&color=61DAFB&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
@@ -47,8 +47,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/nilll0111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nilll0111" height="30" width="40" /></a>
-  <a href="https://twitter.com/asdfasdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asdfasdf" height="30" width="40" /></a>
+<a href="https://twitter.com/its_mr_nill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_mr_nill" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-selim333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-selim333/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nilll0111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsselim03" height="30" width="40" /></a>
+<a href="https://instagram.com/its_selim_nill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_selim_nill" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/its-nill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its-nill" height="30" width="40" /></a>
 </p>
 <br />
 <br />
