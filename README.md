@@ -83,8 +83,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js"/>
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" title="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux" title="Redux"/>
-  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/repo-header.png" height="40" alt="TanStack Query" title="TanStack Query"/>
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" height="40" alt="Redux" title="Redux"/>
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/logo.svg" height="40" alt="TanStack Query" title="TanStack Query"/>
+  <img src="https://react.dev/images/docs/diagram-context.dark.png" height="40" alt="Context API" title="Context API"/>
+  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="40" alt="Zustand" title="Zustand"/>
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3"/>
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
@@ -100,9 +102,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js"/>
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" title="Firebase"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="40" alt="Firebase Auth" title="Firebase Auth"/>
-  <img src="https://cdn.auth0.com/blog/logos/developer-blog.png" height="40" alt="OAuth" title="OAuth"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oauth/oauth-original.svg" height="40" alt="OAuth" title="OAuth"/>
   <img src="https://jwt.io/img/pic_logo.svg" height="40" alt="JWT" title="JWT"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" height="40" alt="REST API" title="REST API"/>
 </div>
@@ -129,7 +130,6 @@
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Adobe Illustrator" title="Adobe Illustrator"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" title="Photoshop"/>
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="Adobe XD" title="Adobe XD"/>
-  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" height="40" alt="Sketch" title="Sketch"/>
 </div>
 
 ---
@@ -139,10 +139,10 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code"/>
-  <img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/cursor/cursor.png" height="40" alt="Cursor" title="Cursor"/>
+  <img src="https://www.cursor.com/brand/icon.svg" height="40" alt="Cursor" title="Cursor"/>
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" title="Vercel"/>
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify" title="Netlify"/>
-  <img src="https://render.com/favicon.ico" height="40" alt="Render" title="Render"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" height="40" alt="Render" title="Render"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" height="40" alt="Chrome DevTools" title="Chrome DevTools"/>
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm" title="npm"/>
   <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="Yarn" title="Yarn"/>
