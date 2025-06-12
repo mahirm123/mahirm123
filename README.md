@@ -75,47 +75,75 @@
 
 ### 🚀 Tech Stack
 
+---
+
 #### 🧩 Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" />
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" />
-  <img src="https://www.chartjs.org/media/logo-title.svg" width="40" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" title="Next.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tanstackdev/tanstackdev-icon.svg" title="TanStack" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/bootstrap/bootstrap-icon.svg" title="Bootstrap" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="Sass" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Material_UI_Logo.svg" title="Material UI" width="40" />
+  <img src="https://ant.design/assets/favicons/favicon-32x32.png" title="Ant Design" width="40" />
+  <img src="https://www.chartjs.org/media/logo-title.svg" title="Chart.js" width="40" />
 </p>
+
+---
 
 #### ⚙️ Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" width="40" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/null/external-json-web-token-is-an-open-standard-that-defines-a-compact-and-self-contained-way-logo-shadow-tal-revivo.png" title="JWT" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/oauth.png" title="OAuth" width="40"/>
+  <img src="https://img.icons8.com/plasticine/100/rest-api.png" title="REST API" width="40"/>
 </p>
+
+---
 
 #### 🗄️ Database
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40" />
 </p>
 
-#### 🎨 UI/UX & Tools
-<p>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" />
-</p>
+---
 
 #### 🧪 Testing
-<p>
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" />
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" width="40" />
+</p>
+
+---
+
+#### 🎨 UI/UX & Design
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" title="Adobe Illustrator" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" title="Photoshop" width="40" />
+</p>
+
+---
+
+#### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="40" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="GitHub" width="40" />
+  <img src="https://img.icons8.com/ios-filled/50/chrome.png" title="Chrome DevTools" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" title="Vercel" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" title="Netlify" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Render_logo_2021.svg/512px-Render_logo_2021.svg.png" title="Render" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="VS Code" width="40" />
+  <img src="https://avatars.githubusercontent.com/u/146732075?s=280&v=4" title="Cursor IDE" width="40" />
+  <img src="https://avatars.githubusercontent.com/u/164947605?s=280&v=4" title="Vibe Coding" width="40" />
 </p>
 
 
  
-
-<div align="left">
-  <h4>🐍 My Contributions 🐍</h4>
-
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/akram-sakib/akram-sakib/output/github-contribution-grid-snake.svg" />
-</div>
