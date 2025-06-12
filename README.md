@@ -81,7 +81,8 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" title="Next.js" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tanstackdev/tanstackdev-icon.svg" title="TanStack" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/72592906?s=200&v=4" title="TanStack" width="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="40"/>
@@ -90,7 +91,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="Sass/SCSS" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" title="Material UI" width="40"/>
-  <img src="https://ant.design/assets/favicons/favicon-32x32.png" title="Ant Design" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" title="Ant Design" width="40"/>
   <img src="https://www.chartjs.org/media/logo-title.svg" title="Chart.js" width="40"/>
 </p>
 
@@ -101,8 +102,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/jwt.png" title="JWT" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/oauth.png" title="OAuth" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/jwt.png" title="JWT" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/oauth.png" title="OAuth" width="40"/>
   <img src="https://img.icons8.com/fluency/48/api-settings.png" title="REST API" width="40"/>
 </p>
 
