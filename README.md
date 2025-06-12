@@ -78,68 +78,76 @@
 ---
 
 #### 🧩 Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" title="Next.js" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/72592906?s=200&v=4" title="TanStack" width="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="Sass/SCSS" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" title="Material UI" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" title="Ant Design" width="40"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" title="Chart.js" width="40"/>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux" title="Redux"/>
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/repo-header.png" height="40" alt="TanStack Query" title="TanStack Query"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="Sass/SCSS" title="Sass/SCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="Material UI" title="Material UI"/>
+  <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" height="40" alt="Ant Design" title="Ant Design"/>
+</div>
 
 ---
 
 #### ⚙️ Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/jwt.png" title="JWT" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/oauth.png" title="OAuth" width="40"/>
-  <img src="https://img.icons8.com/fluency/48/api-settings.png" title="REST API" width="40"/>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" title="Firebase"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="40" alt="Firebase Auth" title="Firebase Auth"/>
+  <img src="https://cdn.auth0.com/blog/logos/developer-blog.png" height="40" alt="OAuth" title="OAuth"/>
+  <img src="https://jwt.io/img/pic_logo.svg" height="40" alt="JWT" title="JWT"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" height="40" alt="REST API" title="REST API"/>
+</div>
 
 ---
 
 #### 🗄️ Database
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40"/>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB"/>
+</div>
 
 ---
 
 #### 🧪 Testing
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" width="40"/>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="Jest" title="Jest"/>
+</div>
 
 ---
 
 #### 🎨 UI/UX & Design
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" title="Adobe Illustrator" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" title="Photoshop" width="40"/>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" title="Figma"/>
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Adobe Illustrator" title="Adobe Illustrator"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" title="Photoshop"/>
+  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="Adobe XD" title="Adobe XD"/>
+  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" height="40" alt="Sketch" title="Sketch"/>
+</div>
 
 ---
 
 #### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="40"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="GitHub" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/chrome.png" title="Chrome DevTools" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" title="Vercel" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" title="Netlify" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Render_logo_2021.svg/512px-Render_logo_2021.svg.png" title="Render" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="VS Code" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/164947605?s=280&v=4" title="Vibe Coding" width="40"/>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code"/>
+  <img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/cursor/cursor.png" height="40" alt="Cursor" title="Cursor"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" title="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify" title="Netlify"/>
+  <img src="https://render.com/favicon.ico" height="40" alt="Render" title="Render"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" height="40" alt="Chrome DevTools" title="Chrome DevTools"/>
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm" title="npm"/>
+  <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="Yarn" title="Yarn"/>
+  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="Webpack" title="Webpack"/>
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" title="Vite"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman"/>
+  <img src="https://insomnia.rest/images/run.svg" height="40" alt="Insomnia" title="Insomnia"/>
+</div>
