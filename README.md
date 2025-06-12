@@ -139,12 +139,12 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/mohammad-selim03/Eduspark" title="Eduspark"><img align="left" height="115" src="https://github.com/mohammad-selim03/Eduspark&repo=Eduspark&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/mohammad-selim03/job-board-platform" title="Job Board Platform"><img align="right" height="115" src="https://github.com/mohammad-selim03/job-board-platform&repo=job-board-platform&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/mohammad-selim03/Eduspark" title="Eduspark"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=Eduspark&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/mohammad-selim03/job-board-platform" title="Job Board Platform"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=job-board-platform&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/mohammad-selim03/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/mohammad-selim03/thai-explorer" title="Thai Explorer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=thai-explorer&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/mohammad-selim03/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
