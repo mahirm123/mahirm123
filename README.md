@@ -144,7 +144,6 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/mohammad-selim03/thai-explorer" title="Thai Explorer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=thai-explorer&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/mohammad-selim03/thai-explorer" title="Thai Explorer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=thai-explorer&theme=react&border_color=61dafb&border_radius=10"></a>
    <a align="right" href="https://github.com/mohammad-selim03/sports-carhubb" title="Sports Carhub"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=sports-carhubb&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
@@ -154,7 +153,4 @@
   <a align="left" href="https://github.com/mohammad-selim03/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/mohammad-selim03?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+ 
