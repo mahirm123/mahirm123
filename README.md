@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Selim</h1>
 <h3 align="center">A passionate frontend Enthusiast • Mern Stack Developer</h3>
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Mohammad Selim" />
+  <img src="https://raw.githubusercontent.com/mohammadselim/mohammadselim/master/name.svg" alt="Mohammad Selim" />
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-selim03&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-selim03" /> </p>
