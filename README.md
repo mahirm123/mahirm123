@@ -84,7 +84,7 @@
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" title="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" title="JavaScript"/>
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" height="40" alt="Redux" title="Redux"/>
-<img src="https://raw.githubusercontent.com/TanStack/query/main/media/repo-header.png" height="40" alt="TanStack Query" title="TanStack Query"/>
+<img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" height="40" width="40" alt="TanStack Query" title="TanStack Query"/>
   <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="40" alt="Zustand" title="Zustand"/>
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3"/>
