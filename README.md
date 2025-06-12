@@ -7,6 +7,9 @@
 
 🛠️ Currently focusing on mastering advanced animations (GSAP, Framer Motion), building 3D portfolios, and creating admin-panel-driven SaaS platforms.
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mahirm123.visitor-badge&left_color=black&right_color=blue)
+
+
 ### 🛠️ Tech Stack
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
