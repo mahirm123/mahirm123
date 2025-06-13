@@ -137,110 +137,192 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/mohammad-selim03/Eduspark" title="Eduspark">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=Eduspark&theme=react&border_color=61dafb&border_radius=10">
-    <br>
-    <div align="left" style="margin-top: 10px;">
-      <h4>📚 Eduspark</h4>
-      <p><em>Educational platform built with React and Next.js for interactive learning experiences</em></p>
-      <p>
-        <a href="https://github.com/mohammad-selim03/Eduspark">
-          <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-        </a>
-        <a href="https://eduspark-live.vercel.app">
-          <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-        </a>
-      </p>
+  <div align="left" style="display: inline-block; width: 45%; margin: 10px; border: 2px solid #61dafb; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" style="margin-right: 8px;">
+      <h3 style="color: #58a6ff; margin: 0;">Eduspark</h3>
     </div>
-  </a>
-  <a align="right" href="https://github.com/mohammad-selim03/job-board-platform" title="Job Board Platform">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=job-board-platform&theme=react&border_color=61dafb&border_radius=10">
-    <br>
-    <div align="right" style="margin-top: 10px;">
-      <h4>💼 Job Board Platform</h4>
-      <p><em>Full-stack job board application with advanced search and filtering capabilities</em></p>
-      <p>
-        <a href="https://github.com/mohammad-selim03/job-board-platform">
-          <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-        </a>
-        <a href="https://job-board-platform-live.vercel.app">
-          <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-        </a>
-      </p>
+    <p style="color: #8b949e; font-size: 14px; margin-bottom: 15px;">Educational platform built with React and Next.js for interactive learning experiences</p>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <span style="display: inline-block; width: 12px; height: 12px; background-color: #3178c6; border-radius: 50%; margin-right: 8px;"></span>
+      <span style="color: #f0f6fc; font-size: 12px;">TypeScript</span>
     </div>
-  </a>
+    <div style="display: flex; gap: 10px;">
+      <a href="https://github.com/mohammad-selim03/Eduspark" style="text-decoration: none;">
+        <span style="display: inline-flex; align-items: center; background: #21262d; border: 1px solid #30363d; border-radius: 6px; padding: 5px 10px; color: #f0f6fc; font-size: 12px;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="margin-right: 5px;">
+            <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.77 3.77z"/>
+          </svg>
+          Code
+        </span>
+      </a>
+      <a href="https://eduspark-live.vercel.app" style="text-decoration: none;">
+        <span style="display: inline-flex; align-items: center; background: #21262d; border: 1px solid #30363d; border-radius: 6px; padding: 5px 10px; color: #f0f6fc; font-size: 12px;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="margin-right: 5px;">
+            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/>
+          </svg>
+          Live
+        </span>
+      </a>
+    </div>
+  </div>
+
+  <div align="right" style="display: inline-block; width: 45%; margin: 10px; border: 2px solid #61dafb; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" style="margin-right: 8px;">
+      <h3 style="color: #58a6ff; margin: 0;">Job Board Platform</h3>
+    </div>
+    <p style="color: #8b949e; font-size: 14px; margin-bottom: 15px;">Full-stack job board application with advanced search and filtering capabilities</p>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <span style="display: inline-block; width: 12px; height: 12px; background-color: #3178c6; border-radius: 50%; margin-right: 8px;"></span>
+      <span style="color: #f0f6fc; font-size: 12px;">TypeScript</span>
+    </div>
+    <div style="display: flex; gap: 10px;">
+      <a href="https://github.com/mohammad-selim03/job-board-platform" style="text-decoration: none;">
+        <span style="display: inline-flex; align-items: center; background: #21262d; border: 1px solid #30363d; border-radius: 6px; padding: 5px 10px; color: #f0f6fc; font-size: 12px;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="margin-right: 5px;">
+            <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.77 3.77z"/>
+          </svg>
+          Code
+        </span>
+      </a>
+      <a href="https://job-board-platform-live.vercel.app" style="text-decoration: none;">
+        <span style="display: inline-flex; align-items: center; background: #21262d; border: 1px solid #30363d; border-radius: 6px; padding: 5px 10px; color: #f0f6fc; font-size: 12px;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="margin-right: 5px;">
+            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/>
+          </svg>
+          Live
+        </span>
+      </a>
+    </div>
+  </div>
 </div>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/mohammad-selim03/thai-explorer" title="Thai Explorer">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=thai-explorer&theme=react&border_color=61dafb&border_radius=10">
-    <br>
-    <div align="left" style="margin-top: 10px;">
-      <h4>🇹🇭 Thai Explorer</h4>
-      <p><em>Travel guide application for exploring Thailand with interactive maps and local insights</em></p>
-      <p>
-        <a href="https://github.com/mohammad-selim03/thai-explorer">
-          <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-        </a>
-        <a href="https://thai-explorer-live.vercel.app">
-          <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-        </a>
-      </p>
+  <div align="left" style="display: inline-block; width: 45%; margin: 10px; border: 2px solid #61dafb; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" style="margin-right: 8px;">
+      <h3 style="color: #58a6ff; margin: 0;">Thai Explorer</h3>
     </div>
-  </a>
-  <a align="right" href="https://github.com/mohammad-selim03/sports-carhubb" title="Sports Carhub">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=sports-carhubb&theme=react&border_color=61dafb&border_radius=10">
-    <br>
-    <div align="right" style="margin-top: 10px;">
-      <h4>🏎️ Sports Carhub</h4>
-      <p><em>Premium sports car showcase platform with detailed specifications and comparisons</em></p>
-      <p>
-        <a href="https://github.com/mohammad-selim03/sports-carhubb">
-          <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-        </a>
-        <a href="https://sports-carhubb-live.vercel.app">
-          <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-        </a>
-      </p>
+    <p style="color: #8b949e; font-size: 14px; margin-bottom: 15px;">Travel guide application for exploring Thailand with interactive maps and local insights</p>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <span style="display: inline-block; width: 12px; height: 12px; background-color: #f1e05a; border-radius: 50%; margin-right: 8px;"></span>
+      <span style="color: #f0f6fc; font-size: 12px;">JavaScript</span>
     </div>
-  </a>
+    <div style="display: flex; gap: 10px;">
+      <a href="https://github.com/mohammad-selim03/thai-explorer" style="text-decoration: none;">
+        <span style="display: inline-flex; align-items: center; background: #21262d; border: 1px solid #30363d; border-radius: 6px; padding: 5px 10px; color: #f0f6fc; font-size: 12px;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="margin-right: 5px;">
+            <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.77 3.77z"/>
+          </svg>
+          Code
+        </span>
+      </a>
+      <a href="https://thai-explorer-live.vercel.app" style="text-decoration: none;">
+        <span style="display: inline-flex; align-items: center; background: #21262d; border: 1px solid #30363d; border-radius: 6px; padding: 5px 10px; color: #f0f6fc; font-size: 12px;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="margin-right: 5px;">
+            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/>
+          </svg>
+          Live
+        </span>
+      </a>
+    </div>
+  </div>
+
+  <div align="right" style="display: inline-block; width: 45%; margin: 10px; border: 2px solid #61dafb; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" style="margin-right: 8px;">
+      <h3 style="color: #58a6ff; margin: 0;">Sports Carhub</h3>
+    </div>
+    <p style="color: #8b949e; font-size: 14px; margin-bottom: 15px;">Premium sports car showcase platform with detailed specifications and comparisons</p>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <span style="display: inline-block; width: 12px; height: 12px; background-color: #3178c6; border-radius: 50%; margin-right: 8px;"></span>
+      <span style="color: #f0f6fc; font-size: 12px;">TypeScript</span>
+    </div>
+    <div style="display: flex; gap: 10px;">
+      <a href="https://github.com/mohammad-selim03/sports-carhubb" style="text-decoration: none;">
+        <span style="display: inline-flex; align-items: center; background: #21262d; border: 1px solid #30363d; border-radius: 6px; padding: 5px 10px; color: #f0f6fc; font-size: 12px;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="margin-right: 5px;">
+            <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.77 3.77z"/>
+          </svg>
+          Code
+        </span>
+      </a>
+      <a href="https://sports-carhubb-live.vercel.app" style="text-decoration: none;">
+        <span style="display: inline-flex; align-items: center; background: #21262d; border: 1px solid #30363d; border-radius: 6px; padding: 5px 10px; color: #f0f6fc; font-size: 12px;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="margin-right: 5px;">
+            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/>
+          </svg>
+          Live
+        </span>
+      </a>
+    </div>
+  </div>
 </div>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/mohammad-selim03/stride-task-sync-52" title="Advanced Task Management UI">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=stride-task-sync-52&theme=react&border_color=61dafb&border_radius=10">
-    <br>
-    <div align="left" style="margin-top: 10px;">
-      <h4>📋 Stride Task Sync</h4>
-      <p><em>Advanced task management application with real-time collaboration and progress tracking</em></p>
-      <p>
-        <a href="https://github.com/mohammad-selim03/stride-task-sync-52">
-          <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-        </a>
-        <a href="https://stride-task-sync-live.vercel.app">
-          <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-        </a>
-      </p>
+  <div align="left" style="display: inline-block; width: 45%; margin: 10px; border: 2px solid #61dafb; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" style="margin-right: 8px;">
+      <h3 style="color: #58a6ff; margin: 0;">Stride Task Sync</h3>
     </div>
-  </a>
-  <a align="right" href="https://github.com/mohammad-selim03/gaming-platform" title="Gaming subscription platform">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=gaming-platform&theme=react&border_color=61dafb&border_radius=10">
-    <br>
-    <div align="right" style="margin-top: 10px;">
-      <h4>🎮 Gaming Platform</h4>
-      <p><em>Gaming subscription platform with user profiles, game library, and social features</em></p>
-      <p>
-        <a href="https://github.com/mohammad-selim03/gaming-platform">
-          <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-        </a>
-        <a href="https://gaming-platform-live.vercel.app">
-          <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-        </a>
-      </p>
+    <p style="color: #8b949e; font-size: 14px; margin-bottom: 15px;">Advanced task management application with real-time collaboration and progress tracking</p>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <span style="display: inline-block; width: 12px; height: 12px; background-color: #3178c6; border-radius: 50%; margin-right: 8px;"></span>
+      <span style="color: #f0f6fc; font-size: 12px;">TypeScript</span>
     </div>
-  </a>
+    <div style="display: flex; gap: 10px;">
+      <a href="https://github.com/mohammad-selim03/stride-task-sync-52" style="text-decoration: none;">
+        <span style="display: inline-flex; align-items: center; background: #21262d; border: 1px solid #30363d; border-radius: 6px; padding: 5px 10px; color: #f0f6fc; font-size: 12px;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="margin-right: 5px;">
+            <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.77 3.77z"/>
+          </svg>
+          Code
+        </span>
+      </a>
+      <a href="https://stride-task-sync-live.vercel.app" style="text-decoration: none;">
+        <span style="display: inline-flex; align-items: center; background: #21262d; border: 1px solid #30363d; border-radius: 6px; padding: 5px 10px; color: #f0f6fc; font-size: 12px;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="margin-right: 5px;">
+            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/>
+          </svg>
+          Live
+        </span>
+      </a>
+    </div>
+  </div>
+
+  <div align="right" style="display: inline-block; width: 45%; margin: 10px; border: 2px solid #61dafb; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" style="margin-right: 8px;">
+      <h3 style="color: #58a6ff; margin: 0;">Gaming Platform</h3>
+    </div>
+    <p style="color: #8b949e; font-size: 14px; margin-bottom: 15px;">Gaming subscription platform with user profiles, game library, and social features</p>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <span style="display: inline-block; width: 12px; height: 12px; background-color: #3178c6; border-radius: 50%; margin-right: 8px;"></span>
+      <span style="color: #f0f6fc; font-size: 12px;">TypeScript</span>
+    </div>
+    <div style="display: flex; gap: 10px;">
+      <a href="https://github.com/mohammad-selim03/gaming-platform" style="text-decoration: none;">
+        <span style="display: inline-flex; align-items: center; background: #21262d; border: 1px solid #30363d; border-radius: 6px; padding: 5px 10px; color: #f0f6fc; font-size: 12px;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="margin-right: 5px;">
+            <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.77 3.77z"/>
+          </svg>
+          Code
+        </span>
+      </a>
+      <a href="https://gaming-platform-live.vercel.app" style="text-decoration: none;">
+        <span style="display: inline-flex; align-items: center; background: #21262d; border: 1px solid #30363d; border-radius: 6px; padding: 5px 10px; color: #f0f6fc; font-size: 12px;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="margin-right: 5px;">
+            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/>
+          </svg>
+          Live
+        </span>
+      </a>
+    </div>
+  </div>
 </div>
 <br/><br/><br/><br/><br/><br/>
- 
