@@ -135,22 +135,110 @@
 
 
 <hr>
-
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/mohammad-selim03/Eduspark" title="Eduspark"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=Eduspark&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/mohammad-selim03/job-board-platform" title="Job Board Platform"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=job-board-platform&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/> 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mohammad-selim03/thai-explorer" description="thi" title="Thai Explorer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=thai-explorer&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a align="right" href="https://github.com/mohammad-selim03/sports-carhubb" title="Sports Carhub"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=sports-carhubb&theme=react&border_color=61dafb&border_radius=10"></a>
-</div> 
 <br/><br/><br/><br/><br/><br/>
+
+<div align="center">
+  <div style="display: inline-block; width: 45%; vertical-align: top;">
+    <h3>📚 Eduspark</h3>
+    <p><em>Educational platform built with React and Next.js for interactive learning experiences</em></p>
+    <p>
+      <a href="https://github.com/mohammad-selim03/Eduspark">
+        <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+      </a>
+      <a href="https://eduspark-live.vercel.app">
+        <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+      </a>
+    </p>
+  </div>
+  <div style="display: inline-block; width: 45%; vertical-align: top;">
+    <h3>💼 Job Board Platform</h3>
+    <p><em>Full-stack job board application with advanced search and filtering capabilities</em></p>
+    <p>
+      <a href="https://github.com/mohammad-selim03/job-board-platform">
+        <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+      </a>
+      <a href="https://job-board-platform-live.vercel.app">
+        <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+      </a>
+    </p>
+  </div>
+</div>
+
+<br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/mohammad-selim03/thai-explorer" title="Thai Explorer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=thai-explorer&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/mohammad-selim03/sports-carhubb" title="Sports Carhub"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=sports-carhubb&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<div align="center">
+  <div style="display: inline-block; width: 45%; vertical-align: top;">
+    <h3>🇹🇭 Thai Explorer</h3>
+    <p><em>Travel guide application for exploring Thailand with interactive maps and local insights</em></p>
+    <p>
+      <a href="https://github.com/mohammad-selim03/thai-explorer">
+        <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+      </a>
+      <a href="https://thai-explorer-live.vercel.app">
+        <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+      </a>
+    </p>
+  </div>
+  <div style="display: inline-block; width: 45%; vertical-align: top;">
+    <h3>🏎️ Sports Carhub</h3>
+    <p><em>Premium sports car showcase platform with detailed specifications and comparisons</em></p>
+    <p>
+      <a href="https://github.com/mohammad-selim03/sports-carhubb">
+        <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+      </a>
+      <a href="https://sports-carhubb-live.vercel.app">
+        <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+      </a>
+    </p>
+  </div>
+</div>
+
+<br/><br/>
+
 <div width="100%" align="center">
   <a align="left" href="https://github.com/mohammad-selim03/stride-task-sync-52" title="Advanced Task Management UI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=stride-task-sync-52&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a align="right" href="https://github.com/mohammad-selim03/gaming-platform" title="Gaming subscription platform"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=gaming-platform&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/mohammad-selim03/gaming-platform" title="Gaming subscription platform"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=gaming-platform&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+<br/><br/><br/><br/><br/><br/>
+
+<div align="center">
+  <div style="display: inline-block; width: 45%; vertical-align: top;">
+    <h3>📋 Stride Task Sync</h3>
+    <p><em>Advanced task management application with real-time collaboration and progress tracking</em></p>
+    <p>
+      <a href="https://github.com/mohammad-selim03/stride-task-sync-52">
+        <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+      </a>
+      <a href="https://stride-task-sync-live.vercel.app">
+        <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+      </a>
+    </p>
+  </div>
+  <div style="display: inline-block; width: 45%; vertical-align: top;">
+    <h3>🎮 Gaming Platform</h3>
+    <p><em>Gaming subscription platform with user profiles, game library, and social features</em></p>
+    <p>
+      <a href="https://github.com/mohammad-selim03/gaming-platform">
+        <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+      </a>
+      <a href="https://gaming-platform-live.vercel.app">
+        <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+      </a>
+    </p>
+  </div>
+</div>
+
 <br/><br/><br/><br/><br/><br/>
  
