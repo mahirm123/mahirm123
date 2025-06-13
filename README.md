@@ -148,7 +148,7 @@
       <a href="https://github.com/mohammad-selim03/Eduspark" title="Code">
         <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
       </a>
-      <a href="#" title="Live Demo">
+      <a href="https://nill-eduspark.netlify.app/" title="Live Demo">
         <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
       </a>
     </td>
@@ -160,7 +160,7 @@
       <a href="https://github.com/mohammad-selim03/job-board-platform" title="Code">
         <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
       </a>
-      <a href="#" title="Live Demo">
+      <a href="https://nill-job-board.netlify.app/" title="Live Demo">
         <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
       </a>
     </td>
@@ -174,7 +174,7 @@
       <a href="https://github.com/mohammad-selim03/thai-explorer" title="Code">
         <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
       </a>
-      <a href="#" title="Live Demo">
+      <a href="https://thai-travel.netlify.app/" title="Live Demo">
         <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
       </a>
     </td>
@@ -186,7 +186,7 @@
       <a href="https://github.com/mohammad-selim03/sports-carhubb" title="Code">
         <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
       </a>
-      <a href="#" title="Live Demo">
+      <a href="https://sports-carhub.netlify.app/" title="Live Demo">
         <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
       </a>
     </td>
@@ -200,7 +200,7 @@
       <a href="https://github.com/mohammad-selim03/stride-task-sync-52" title="Code">
         <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
       </a>
-      <a href="#" title="Live Demo">
+      <a href="https://team-master.netlify.app/" title="Live Demo">
         <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
       </a>
     </td>
@@ -212,7 +212,7 @@
       <a href="https://github.com/mohammad-selim03/gaming-platform" title="Code">
         <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
       </a>
-      <a href="#" title="Live Demo">
+      <a href="https://vanguardd-boost.netlify.app/" title="Live Demo">
         <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
       </a>
     </td>
