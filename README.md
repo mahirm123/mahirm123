@@ -42,7 +42,7 @@
 - 💬 Ask me about **Next.js , React.js**
 
 - 📫 How to reach me **selim.nill1@gmail.com**
-- 📄 Here's my CV [Link[Link](https://drive.google.com/file/d/1RtIEfv69Sf4KPbHYnJNPJFpeyjAL9jWw/view?usp=sharing)]
+- 📄 Here's my CV [[Link](https://drive.google.com/file/d/1RtIEfv69Sf4KPbHYnJNPJFpeyjAL9jWw/view?usp=sharing)]
 
  <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
