@@ -137,20 +137,85 @@
 <hr>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mohammad-selim03/Eduspark" title="Eduspark"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=Eduspark&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/mohammad-selim03/job-board-platform" title="Job Board Platform"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=job-board-platform&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/> 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mohammad-selim03/thai-explorer" description="thi" title="Thai Explorer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=thai-explorer&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a align="right" href="https://github.com/mohammad-selim03/sports-carhubb" title="Sports Carhub"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=sports-carhubb&theme=react&border_color=61dafb&border_radius=10"></a>
-</div> 
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mohammad-selim03/stride-task-sync-52" title="Advanced Task Management UI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=stride-task-sync-52&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a align="right" href="https://github.com/mohammad-selim03/gaming-platform" title="Gaming subscription platform"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=gaming-platform&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/mohammad-selim03/Eduspark" title="Eduspark">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=Eduspark&theme=react&border_color=61dafb&border_radius=10&show_owner=true"/>
+      </a>
+      <br>
+      <a href="https://github.com/mohammad-selim03/Eduspark" title="Code">
+        <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+      </a>
+      <a href="#" title="Live Demo">
+        <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/mohammad-selim03/job-board-platform" title="Job Board Platform">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=job-board-platform&theme=react&border_color=61dafb&border_radius=10&show_owner=true"/>
+      </a>
+      <br>
+      <a href="https://github.com/mohammad-selim03/job-board-platform" title="Code">
+        <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+      </a>
+      <a href="#" title="Live Demo">
+        <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/mohammad-selim03/thai-explorer" title="Thai Explorer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=thai-explorer&theme=react&border_color=61dafb&border_radius=10&show_owner=true"/>
+      </a>
+      <br>
+      <a href="https://github.com/mohammad-selim03/thai-explorer" title="Code">
+        <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+      </a>
+      <a href="#" title="Live Demo">
+        <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/mohammad-selim03/sports-carhubb" title="Sports Carhub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=sports-carhubb&theme=react&border_color=61dafb&border_radius=10&show_owner=true"/>
+      </a>
+      <br>
+      <a href="https://github.com/mohammad-selim03/sports-carhubb" title="Code">
+        <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+      </a>
+      <a href="#" title="Live Demo">
+        <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/mohammad-selim03/stride-task-sync-52" title="Advanced Task Management UI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=stride-task-sync-52&theme=react&border_color=61dafb&border_radius=10&show_owner=true"/>
+      </a>
+      <br>
+      <a href="https://github.com/mohammad-selim03/stride-task-sync-52" title="Code">
+        <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+      </a>
+      <a href="#" title="Live Demo">
+        <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/mohammad-selim03/gaming-platform" title="Gaming subscription platform">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=gaming-platform&theme=react&border_color=61dafb&border_radius=10&show_owner=true"/>
+      </a>
+      <br>
+      <a href="https://github.com/mohammad-selim03/gaming-platform" title="Code">
+        <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+      </a>
+      <a href="#" title="Live Demo">
+        <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
+      </a>
+    </td>
+  </tr>
+</table>
  
