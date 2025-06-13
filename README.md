@@ -48,7 +48,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/its_mr_nill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_mr_nill" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohammad-selim333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-selim333/" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/mohammad-selim-3920a3362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-selim333/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nilll0111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsselim03" height="30" width="40" /></a>
 <a href="https://instagram.com/its_selim_nill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_selim_nill" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/its-nill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its-nill" height="30" width="40" /></a>
@@ -144,24 +144,50 @@
       <a href="https://github.com/mohammad-selim03/Eduspark" title="Eduspark">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=Eduspark&theme=react&border_color=61dafb&border_radius=10&show_owner=true"/>
       </a>
-      <br>
+      <br><br>
       <a href="https://github.com/mohammad-selim03/Eduspark" title="Code">
-        <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+        <svg width="50" height="32" viewBox="0 0 50 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="1" y="1" width="48" height="30" rx="10" stroke="#61DAFB" stroke-width="2"/>
+          <g transform="translate(13, 4)">
+            <path d="M12 0C5.373 0 0 5.373 0 12C0 17.303 3.438 21.8 8.207 23.387C8.807 23.493 9.027 23.12 9.027 22.8C9.027 22.507 9.017 21.58 9.017 20.473C6.737 20.933 5.867 19.43 5.567 18.78C5.357 18.29 4.797 16.97 4.297 16.68C3.887 16.44 3.207 15.82 4.217 15.81C5.167 15.8 5.987 16.69 6.227 17.07C7.307 18.91 9.117 18.35 9.817 18.04C9.917 17.35 10.187 16.89 10.467 16.64C8.027 16.36 5.487 15.42 5.487 11.23C5.487 10.02 5.927 9.04 6.627 8.29C6.517 8.02 6.127 6.88 6.717 5.2C6.717 5.2 7.607 4.93 9.007 5.9C9.857 5.67 10.757 5.56 11.667 5.56C12.577 5.56 13.477 5.67 14.327 5.9C15.727 4.93 16.617 5.2 16.617 5.2C17.217 6.88 16.827 8.02 16.717 8.29C17.417 9.04 17.847 10.02 17.847 11.23C17.847 15.43 15.307 16.36 12.867 16.64C13.227 16.94 13.567 17.58 13.567 18.52C13.567 19.82 13.557 20.87 13.557 21.2C13.557 21.53 13.767 21.78 14.127 21.673C18.957 20.05 22.337 15.56 22.337 10.66C22.337 4.76 17.577 0 11.667 0H12Z" fill="#61DAFB"/>
+          </g>
+        </svg>
       </a>
+      &nbsp;&nbsp;
       <a href="#" title="Live Demo">
-        <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
+        <svg width="50" height="32" viewBox="0 0 50 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="1" y="1" width="48" height="30" rx="10" stroke="#61DAFB" stroke-width="2"/>
+          <g transform="translate(13, 4)">
+            <path d="M18 13V19C18 20.1046 17.1046 21 16 21H5C3.89543 21 3 20.1046 3 19V8C3 6.89543 3.89543 6 5 6H11" stroke="#61DAFB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M15 3H21V9" stroke="#61DAFB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M10 14L21 3" stroke="#61DAFB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </g>
+        </svg>
       </a>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/mohammad-selim03/job-board-platform" title="Job Board Platform">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=job-board-platform&theme=react&border_color=61dafb&border_radius=10&show_owner=true"/>
       </a>
-      <br>
+      <br><br>
       <a href="https://github.com/mohammad-selim03/job-board-platform" title="Code">
-        <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+        <svg width="50" height="32" viewBox="0 0 50 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="1" y="1" width="48" height="30" rx="10" stroke="#61DAFB" stroke-width="2"/>
+          <g transform="translate(13, 4)">
+            <path d="M12 0C5.373 0 0 5.373 0 12C0 17.303 3.438 21.8 8.207 23.387C8.807 23.493 9.027 23.12 9.027 22.8C9.027 22.507 9.017 21.58 9.017 20.473C6.737 20.933 5.867 19.43 5.567 18.78C5.357 18.29 4.797 16.97 4.297 16.68C3.887 16.44 3.207 15.82 4.217 15.81C5.167 15.8 5.987 16.69 6.227 17.07C7.307 18.91 9.117 18.35 9.817 18.04C9.917 17.35 10.187 16.89 10.467 16.64C8.027 16.36 5.487 15.42 5.487 11.23C5.487 10.02 5.927 9.04 6.627 8.29C6.517 8.02 6.127 6.88 6.717 5.2C6.717 5.2 7.607 4.93 9.007 5.9C9.857 5.67 10.757 5.56 11.667 5.56C12.577 5.56 13.477 5.67 14.327 5.9C15.727 4.93 16.617 5.2 16.617 5.2C17.217 6.88 16.827 8.02 16.717 8.29C17.417 9.04 17.847 10.02 17.847 11.23C17.847 15.43 15.307 16.36 12.867 16.64C13.227 16.94 13.567 17.58 13.567 18.52C13.567 19.82 13.557 20.87 13.557 21.2C13.557 21.53 13.767 21.78 14.127 21.673C18.957 20.05 22.337 15.56 22.337 10.66C22.337 4.76 17.577 0 11.667 0H12Z" fill="#61DAFB"/>
+          </g>
+        </svg>
       </a>
+      &nbsp;&nbsp;
       <a href="#" title="Live Demo">
-        <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
+        <svg width="50" height="32" viewBox="0 0 50 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="1" y="1" width="48" height="30" rx="10" stroke="#61DAFB" stroke-width="2"/>
+          <g transform="translate(13, 4)">
+            <path d="M18 13V19C18 20.1046 17.1046 21 16 21H5C3.89543 21 3 20.1046 3 19V8C3 6.89543 3.89543 6 5 6H11" stroke="#61DAFB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M15 3H21V9" stroke="#61DAFB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M10 14L21 3" stroke="#61DAFB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </g>
+        </svg>
       </a>
     </td>
   </tr>
@@ -170,50 +196,102 @@
       <a href="https://github.com/mohammad-selim03/thai-explorer" title="Thai Explorer">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=thai-explorer&theme=react&border_color=61dafb&border_radius=10&show_owner=true"/>
       </a>
-      <br>
+      <br><br>
       <a href="https://github.com/mohammad-selim03/thai-explorer" title="Code">
-        <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+        <svg width="50" height="32" viewBox="0 0 50 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="1" y="1" width="48" height="30" rx="10" stroke="#61DAFB" stroke-width="2"/>
+          <g transform="translate(13, 4)">
+            <path d="M12 0C5.373 0 0 5.373 0 12C0 17.303 3.438 21.8 8.207 23.387C8.807 23.493 9.027 23.12 9.027 22.8C9.027 22.507 9.017 21.58 9.017 20.473C6.737 20.933 5.867 19.43 5.567 18.78C5.357 18.29 4.797 16.97 4.297 16.68C3.887 16.44 3.207 15.82 4.217 15.81C5.167 15.8 5.987 16.69 6.227 17.07C7.307 18.91 9.117 18.35 9.817 18.04C9.917 17.35 10.187 16.89 10.467 16.64C8.027 16.36 5.487 15.42 5.487 11.23C5.487 10.02 5.927 9.04 6.627 8.29C6.517 8.02 6.127 6.88 6.717 5.2C6.717 5.2 7.607 4.93 9.007 5.9C9.857 5.67 10.757 5.56 11.667 5.56C12.577 5.56 13.477 5.67 14.327 5.9C15.727 4.93 16.617 5.2 16.617 5.2C17.217 6.88 16.827 8.02 16.717 8.29C17.417 9.04 17.847 10.02 17.847 11.23C17.847 15.43 15.307 16.36 12.867 16.64C13.227 16.94 13.567 17.58 13.567 18.52C13.567 19.82 13.557 20.87 13.557 21.2C13.557 21.53 13.767 21.78 14.127 21.673C18.957 20.05 22.337 15.56 22.337 10.66C22.337 4.76 17.577 0 11.667 0H12Z" fill="#61DAFB"/>
+          </g>
+        </svg>
       </a>
+      &nbsp;&nbsp;
       <a href="#" title="Live Demo">
-        <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
+        <svg width="50" height="32" viewBox="0 0 50 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="1" y="1" width="48" height="30" rx="10" stroke="#61DAFB" stroke-width="2"/>
+          <g transform="translate(13, 4)">
+            <path d="M18 13V19C18 20.1046 17.1046 21 16 21H5C3.89543 21 3 20.1046 3 19V8C3 6.89543 3.89543 6 5 6H11" stroke="#61DAFB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M15 3H21V9" stroke="#61DAFB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M10 14L21 3" stroke="#61DAFB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </g>
+        </svg>
       </a>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/mohammad-selim03/sports-carhubb" title="Sports Carhub">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=sports-carhubb&theme=react&border_color=61dafb&border_radius=10&show_owner=true"/>
       </a>
-      <br>
+      <br><br>
       <a href="https://github.com/mohammad-selim03/sports-carhubb" title="Code">
-        <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+        <svg width="50" height="32" viewBox="0 0 50 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="1" y="1" width="48" height="30" rx="10" stroke="#61DAFB" stroke-width="2"/>
+          <g transform="translate(13, 4)">
+            <path d="M12 0C5.373 0 0 5.373 0 12C0 17.303 3.438 21.8 8.207 23.387C8.807 23.493 9.027 23.12 9.027 22.8C9.027 22.507 9.017 21.58 9.017 20.473C6.737 20.933 5.867 19.43 5.567 18.78C5.357 18.29 4.797 16.97 4.297 16.68C3.887 16.44 3.207 15.82 4.217 15.81C5.167 15.8 5.987 16.69 6.227 17.07C7.307 18.91 9.117 18.35 9.817 18.04C9.917 17.35 10.187 16.89 10.467 16.64C8.027 16.36 5.487 15.42 5.487 11.23C5.487 10.02 5.927 9.04 6.627 8.29C6.517 8.02 6.127 6.88 6.717 5.2C6.717 5.2 7.607 4.93 9.007 5.9C9.857 5.67 10.757 5.56 11.667 5.56C12.577 5.56 13.477 5.67 14.327 5.9C15.727 4.93 16.617 5.2 16.617 5.2C17.217 6.88 16.827 8.02 16.717 8.29C17.417 9.04 17.847 10.02 17.847 11.23C17.847 15.43 15.307 16.36 12.867 16.64C13.227 16.94 13.567 17.58 13.567 18.52C13.567 19.82 13.557 20.87 13.557 21.2C13.557 21.53 13.767 21.78 14.127 21.673C18.957 20.05 22.337 15.56 22.337 10.66C22.337 4.76 17.577 0 11.667 0H12Z" fill="#61DAFB"/>
+          </g>
+        </svg>
       </a>
+      &nbsp;&nbsp;
       <a href="#" title="Live Demo">
-        <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
+        <svg width="50" height="32" viewBox="0 0 50 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="1" y="1" width="48" height="30" rx="10" stroke="#61DAFB" stroke-width="2"/>
+          <g transform="translate(13, 4)">
+            <path d="M18 13V19C18 20.1046 17.1046 21 16 21H5C3.89543 21 3 20.1046 3 19V8C3 6.89543 3.89543 6 5 6H11" stroke="#61DAFB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M15 3H21V9" stroke="#61DAFB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M10 14L21 3" stroke="#61DAFB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </g>
+        </svg>
       </a>
     </td>
   </tr>
-    <tr>
+  <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/mohammad-selim03/stride-task-sync-52" title="Advanced Task Management UI">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=stride-task-sync-52&theme=react&border_color=61dafb&border_radius=10&show_owner=true"/>
       </a>
-      <br>
+      <br><br>
       <a href="https://github.com/mohammad-selim03/stride-task-sync-52" title="Code">
-        <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+        <svg width="50" height="32" viewBox="0 0 50 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="1" y="1" width="48" height="30" rx="10" stroke="#61DAFB" stroke-width="2"/>
+          <g transform="translate(13, 4)">
+            <path d="M12 0C5.373 0 0 5.373 0 12C0 17.303 3.438 21.8 8.207 23.387C8.807 23.493 9.027 23.12 9.027 22.8C9.027 22.507 9.017 21.58 9.017 20.473C6.737 20.933 5.867 19.43 5.567 18.78C5.357 18.29 4.797 16.97 4.297 16.68C3.887 16.44 3.207 15.82 4.217 15.81C5.167 15.8 5.987 16.69 6.227 17.07C7.307 18.91 9.117 18.35 9.817 18.04C9.917 17.35 10.187 16.89 10.467 16.64C8.027 16.36 5.487 15.42 5.487 11.23C5.487 10.02 5.927 9.04 6.627 8.29C6.517 8.02 6.127 6.88 6.717 5.2C6.717 5.2 7.607 4.93 9.007 5.9C9.857 5.67 10.757 5.56 11.667 5.56C12.577 5.56 13.477 5.67 14.327 5.9C15.727 4.93 16.617 5.2 16.617 5.2C17.217 6.88 16.827 8.02 16.717 8.29C17.417 9.04 17.847 10.02 17.847 11.23C17.847 15.43 15.307 16.36 12.867 16.64C13.227 16.94 13.567 17.58 13.567 18.52C13.567 19.82 13.557 20.87 13.557 21.2C13.557 21.53 13.767 21.78 14.127 21.673C18.957 20.05 22.337 15.56 22.337 10.66C22.337 4.76 17.577 0 11.667 0H12Z" fill="#61DAFB"/>
+          </g>
+        </svg>
       </a>
+      &nbsp;&nbsp;
       <a href="#" title="Live Demo">
-        <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
+        <svg width="50" height="32" viewBox="0 0 50 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="1" y="1" width="48" height="30" rx="10" stroke="#61DAFB" stroke-width="2"/>
+          <g transform="translate(13, 4)">
+            <path d="M18 13V19C18 20.1046 17.1046 21 16 21H5C3.89543 21 3 20.1046 3 19V8C3 6.89543 3.89543 6 5 6H11" stroke="#61DAFB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M15 3H21V9" stroke="#61DAFB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M10 14L21 3" stroke="#61DAFB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </g>
+        </svg>
       </a>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/mohammad-selim03/gaming-platform" title="Gaming subscription platform">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-selim03&repo=gaming-platform&theme=react&border_color=61dafb&border_radius=10&show_owner=true"/>
       </a>
-      <br>
+      <br><br>
       <a href="https://github.com/mohammad-selim03/gaming-platform" title="Code">
-        <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+        <svg width="50" height="32" viewBox="0 0 50 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="1" y="1" width="48" height="30" rx="10" stroke="#61DAFB" stroke-width="2"/>
+          <g transform="translate(13, 4)">
+            <path d="M12 0C5.373 0 0 5.373 0 12C0 17.303 3.438 21.8 8.207 23.387C8.807 23.493 9.027 23.12 9.027 22.8C9.027 22.507 9.017 21.58 9.017 20.473C6.737 20.933 5.867 19.43 5.567 18.78C5.357 18.29 4.797 16.97 4.297 16.68C3.887 16.44 3.207 15.82 4.217 15.81C5.167 15.8 5.987 16.69 6.227 17.07C7.307 18.91 9.117 18.35 9.817 18.04C9.917 17.35 10.187 16.89 10.467 16.64C8.027 16.36 5.487 15.42 5.487 11.23C5.487 10.02 5.927 9.04 6.627 8.29C6.517 8.02 6.127 6.88 6.717 5.2C6.717 5.2 7.607 4.93 9.007 5.9C9.857 5.67 10.757 5.56 11.667 5.56C12.577 5.56 13.477 5.67 14.327 5.9C15.727 4.93 16.617 5.2 16.617 5.2C17.217 6.88 16.827 8.02 16.717 8.29C17.417 9.04 17.847 10.02 17.847 11.23C17.847 15.43 15.307 16.36 12.867 16.64C13.227 16.94 13.567 17.58 13.567 18.52C13.567 19.82 13.557 20.87 13.557 21.2C13.557 21.53 13.767 21.78 14.127 21.673C18.957 20.05 22.337 15.56 22.337 10.66C22.337 4.76 17.577 0 11.667 0H12Z" fill="#61DAFB"/>
+          </g>
+        </svg>
       </a>
+      &nbsp;&nbsp;
       <a href="#" title="Live Demo">
-        <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo">
+        <svg width="50" height="32" viewBox="0 0 50 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="1" y="1" width="48" height="30" rx="10" stroke="#61DAFB" stroke-width="2"/>
+          <g transform="translate(13, 4)">
+            <path d="M18 13V19C18 20.1046 17.1046 21 16 21H5C3.89543 21 3 20.1046 3 19V8C3 6.89543 3.89543 6 5 6H11" stroke="#61DAFB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M15 3H21V9" stroke="#61DAFB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M10 14L21 3" stroke="#61DAFB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </g>
+        </svg>
       </a>
     </td>
   </tr>
